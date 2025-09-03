@@ -18,7 +18,14 @@
 		<license/>
 	</licenses>
 	<developers>
-		<developer/>
+		<developer>
+			<id>anthony</id>
+				<name>Anthony Lieu</name>
+				<email>anthonyjunlieu@gmail.com</email>
+				<roles>
+					<role>developer</role>
+				</roles>
+		</developer>
 	</developers>
 	<scm>
 		<connection/>

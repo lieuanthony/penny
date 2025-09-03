@@ -12,7 +12,7 @@
 	<artifactId>penny-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Penny Backend</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Personal finance assistant</description>
 	<url/>
 	<licenses>
 		<license/>
